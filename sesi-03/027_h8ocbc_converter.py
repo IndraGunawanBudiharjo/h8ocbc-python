@@ -66,7 +66,7 @@ def convert_from_fahrenheit(temperature, unit):
 result1 = convert_kelvin_celsius(100, 'C')
 result2 = convert_to_fahrenheit(373.15, 'K')
 result3 = convert_to_fahrenheit(100, 'C')
-result4 = convert_from_fahrenheit(64, 'C')
+result4 = convert_from_fahrenheit(32, 'C')
 
 print(result1)
 print(result2)
